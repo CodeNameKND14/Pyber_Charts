@@ -3,6 +3,7 @@ The objective was to build a Bubble Plot that showcases the relationship between
 
 - Average Fare ($) Per City
 - Total Number of Rides Per City
+- Driver Count per city 
 - City Type (Urban, Suburban, Rural)
 
 In addition, produce the following three pie charts:
