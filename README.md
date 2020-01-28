@@ -1,9 +1,8 @@
 ### Pyber
-The objective was to build a Bubble Plot that showcases the relationship between four key variables:
+The objective was to build a Bubble Plot that showcases the relationship between some key variables:
 
 - Average Fare ($) Per City
 - Total Number of Rides Per City
-- Total Number of Drivers Per City
 - City Type (Urban, Suburban, Rural)
 
 In addition, produce the following three pie charts:
